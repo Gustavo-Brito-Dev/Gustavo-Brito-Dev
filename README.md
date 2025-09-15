@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Olá, eu sou Gustavo Brito!
 
-<!--
-**Gustavo-Brito-Dev/Gustavo-Brito-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante / Desenvolvedor interessado em **C, C#, e desenvolvimento web**.  
+💻 Apaixonado por aprender novas tecnologias e criar soluções criativas.  
+🚀 Atualmente focado em melhorar meus projetos e meu portfólio no GitHub.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologias e Ferramentas
+- Linguagens: C, C#, JavaScript
+- Git & GitHub
+- Desenvolvimento Web (HTML, CSS, JS)
+- Pacote Office
+
+---
+
+Habilidades
+- Suporte técnico
+- Inglês básico
+- Softskills
+
+---
+
+📌 Projetos em destaque
+- [Codigos-na-Linguagem-C](https://github.com/Gustavo-Brito-Dev/Codigos-Na-Linguagem-C) – exercícios e exemplos em C
+  
+---
+
+📫 Onde me encontrar
+- 💼 [LinkedIn](https://github.com/Gustavo-Brito-Dev).
+- 📞 +55 (54) 99206-7262
+- ✉️ gustavomateus797@gmail.com
+
+---
+
+⭐ Se gostou dos meus projetos, não esqueça de dar uma estrela!
